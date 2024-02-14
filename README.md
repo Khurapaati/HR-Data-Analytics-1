@@ -3,8 +3,8 @@
 
 
 ## Problem Statement
-Why Valuable Employees are leaving the company.
-identify the root causes of employee attrition, such as average age, gender, education level, job role, department, and performance rating.
+The HR department is looking to reduce attrition and improve employee satisfaction. They need to identify the factors that are contributing to attrition and develop strategies to address them.
+
 
 ## Process
 * Project File received in Microsoft Excel Worksheet format, Go through the data and prepare the key points to follow.
@@ -13,9 +13,11 @@ identify the root causes of employee attrition, such as average age, gender, edu
 * Data is Transformed in Power BI and Loaded to Visualised the Data 
 
 
+
 ## Interactive Dashboard
 
 ![Google Sheets Tips   Tricks](https://github.com/Khurapaati/HR-Data-Analytics-1/assets/46518814/5fe86bbd-4f57-48c0-9599-f59f15f69329)
+
 
 
 
@@ -27,11 +29,14 @@ identify the root causes of employee attrition, such as average age, gender, edu
 * Job Role Matters: The attrition rate also varies by job role. Sales Representatives have the highest attrition rate (42%), followed by Research Scientists (33%) and Research Directors (21%). This suggests that employees in these roles are more likely to leave the company than employees in other roles.
 Performance and Attrition: There is a weak correlation between performance rating and attrition rate. This suggests that performance is not a major factor in employee attrition.
 
+
 ## Conclusion
-We have utilized Power BI to analyze the sales data of our superstore and have gathered valuable insights that can significantly benefit business owners and decision-makers. Through this analysis, we have identified The HR Analytics Dashboard provides a number of valuable insights into employee attrition. The dashboard shows that the company is losing employees at an alarming rate and that there are significant differences in the attrition rate between different groups of employees. These insights can be used to develop targeted interventions to reduce employee attrition.
+We have utilized Power BI to analyze the sales data of our superstore and have gathered valuable insights that can significantly benefit business owners and decision-makers. Through this analysis, we have identified The HR department needs to focus on reducing attrition in the R&D department, among employees with a Bachelor's degree, and among male employees. They also need to focus on improving job satisfaction among all employees.
 
 ## Suggestions
 Conduct exit interviews to understand why employees are leaving the company.
-Analyze the data to identify the root causes of employee attrition.
-Develop targeted interventions to address the root causes of employee attrition.
-Track the progress of interventions and make adjustments as needed.
+Survey employees to understand their job satisfaction levels.
+Develop programs to improve employee engagement and retention.
+Provide more training and development opportunities for employees.
+Offer competitive salaries and benefits.
+Create a positive work culture.
